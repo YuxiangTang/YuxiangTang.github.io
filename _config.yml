@@ -9,13 +9,13 @@ permalink:        pretty
 # Setup
 title:            Tang Yuxiang
 tagline:          'A CVer'
-description:      '一二三四五'
-url:              https://hyde.getpoole.com
+description:      '北京邮电大学计算机学院'
+url:              https://blog.csdn.net/it2153534
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'TangYuxiang'
+  url:            https://blog.csdn.net/it2153534
 
 paginate:         5
 
@@ -23,6 +23,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://yuxiangtang.github.io/
+  repo:           https://github.com/YuxiangTang
 
 plugins: [jekyll-paginate, jekyll-gist, jekyll-sitemap, jekyll-seo-tag]
