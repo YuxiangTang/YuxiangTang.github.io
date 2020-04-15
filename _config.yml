@@ -23,6 +23,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://yuxiangtang.github.io/tem
 
 plugins: [jekyll-paginate, jekyll-gist, jekyll-sitemap, jekyll-seo-tag]
