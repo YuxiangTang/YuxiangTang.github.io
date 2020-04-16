@@ -88,7 +88,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 ### Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-![img1](..\img\img1.jpg)
+![img1]({{ site.baseurl }}/img/img1.jpg)
 
 ### Tables
 
